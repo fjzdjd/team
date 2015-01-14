@@ -1,9 +1,14 @@
 # playground
 This branch is for playing only.
 
-More details on [wiki](https://github.com/leven-cn/team/wiki/Playground/ "Playground Wiki").
-
 ## Play with GitHub
+
+### Before You Do
+
+- [Git](https://github.com/leven-cn/team/wiki/Git/ "Git Wiki")
+- [Markdown](https://github.com/leven-cn/team/wiki/Markdown/ "Markdown Wiki")
+
+### Do It
 
 1. `Fork` this repo for your own copy.
 2. `clone` your own repo.
